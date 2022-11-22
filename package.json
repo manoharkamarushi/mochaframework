@@ -1,0 +1,15 @@
+{
+  "name": "mymochaframework",
+  "version": "1.0.0",
+  "description": "mocha test framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./node_modules/mocha/bin/mocha"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.3.7",
+    "mocha": "^10.1.0"
+  }
+}
